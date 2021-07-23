@@ -34,7 +34,8 @@ namespace Nominataller
         }
 
         public virtual void Modificar() { 
-        
+        // Aqui va el codigo de Modificar
+	var v1="Modificar"
         }
 
         public virtual void Consultar() { 
